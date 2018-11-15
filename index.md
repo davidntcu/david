@@ -6,7 +6,7 @@ layout: default
 
 # David Ho
 
-連結資料
+簡歷與相關連結
 
 - - -
 
@@ -17,6 +17,6 @@ Nice to meet you~
 ## Links
 
  * [Facebook](https://www.facebook.com/freedomho)
- * [E-Mail](mailto://david@ntcu.edu.tw)
+ * [E-Mail](mailto:david@ntcu.edu.tw)
  
 - - -
